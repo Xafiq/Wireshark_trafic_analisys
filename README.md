@@ -1,6 +1,6 @@
 # Wireshark trafic analisys
 
-Practical Wireshark traffic analysis
+## Practical Wireshark traffic analysis
 
 1 – Make an http request to the DVWA (Damn Vulnerable Web App) login site using valid credentials. Capture this request with Wireshark using the TCP filter on port 80 and identify the TCP negotiation handshake. Identifies the username used and its password.
 
