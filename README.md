@@ -1,5 +1,4 @@
-# Wireshark_trafic_analisys
-Wireshark trafic analisys
+# Wireshark trafic analisys
 
 Practical Wireshark traffic analysis
 
