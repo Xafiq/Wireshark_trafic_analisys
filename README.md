@@ -63,7 +63,7 @@
 
 **Step 2: Apply filter for HTTP traffic from Kali Linux**
 
-- In the filter box at the bottom of the Wireshark window, enter `host [IP-OF-DEBIAN] and http` and press Enter. This will capture all HTTP requests from the Debian machine.
+- In the filter box at the bottom of the Wireshark window, enter `host [IP-OF-KALI] and http` and press Enter. This will capture all HTTP requests from the Kali machine.
 
 **Step 3: Perform an XSS attack in DVWA**
 
